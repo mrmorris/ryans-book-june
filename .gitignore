@@ -1,0 +1,6 @@
+.env
+tmp/*
+!tmp/empty
+logs/*
+!logs/empty
+.DS_Store
