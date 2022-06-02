@@ -1,4 +1,4 @@
-# Chapter 1: A special chapter!
+# Chapter 1: A special but kinda awful chapter!
 
 ----
 
@@ -6,6 +6,6 @@ Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm. Pin
 
 More things in chapter 1.
 
-bla bla bla
+bla bla bla: bla.
 
 The end.
